@@ -12,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ghe
 - ⚡ Fun fact: When you translate wkwkwk from Indonesian to English, it's became Hahaha
 -->
+
+
+- 🔭 I’m currently working on Telkomsigma
+- 🌱 I’m currently learning Vue, Spring Boot, MongoDB 
+- 💬 Ask me about anything
+- 📫 How to reach me: trimulyanto.tm@gmail.com
+- 😄 Pronouns: ghe
+- ⚡ Fun fact: When you translate wkwkwk from Indonesian to English, it's became Hahaha
