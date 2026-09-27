@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on ALfagift
+- 🔭 I’m currently working on Alfagift
 - 💬 Ask me about anything
 - 📫 How to reach me: trimulyanto.tm@gmail.com
 - ⚡ Fun fact: When you translate wkwkwk from Indonesian to English, it's became Hahaha
